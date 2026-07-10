@@ -447,6 +447,6 @@ communication templates for a local playschool.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,50:7F5AF0,100:121212&height=150&section=footer" width="100%"/>
 
-<sub>© 2026 Shubham Kumar · Shubham Growth Solutions · All rights reserved</sub>
+<sub>© 2026 Shubham Joshi · Shubham Growth Solutions · All rights reserved</sub>
 
 </div>
