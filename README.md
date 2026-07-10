@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:121212,50:6C63FF,100:00C2FF&height=260&section=header&text=Shubham%20Joshi&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Founder%20@%20Shubham%20Growth%20Solutions%20|%20Software%20Engineer&descAlignY=55&descAlign=50&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:121212,50:6C63FF,100:00C2FF&height=260&section=header&text=Shubham%20Kumar&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Founder%20@%20Shubham%20Growth%20Solutions%20|%20Software%20Engineer&descAlignY=55&descAlign=50&animation=fadeIn" width="100%"/>
 
 <br/>
 
@@ -42,92 +42,6 @@ a business problem — not just code that compiles.
 </td>
 </tr>
 </table>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
-</p>
-
-<div align="center">
-
-<sub>◇ ASCII PORTRAIT ◇</sub>
-
-```
-lII;;;;:,^```^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^,,,,,,,:::;;;;;IIllll!!iii><
-II;;;;::,^```^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^,,,,,:::::;;;;IIIIlll!!iiii
-I;;;:::,^````^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^,,,,,,:::::;;;;IIIIlll!!!ii
-;;;;:::,^````^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^,,,,,,::::::;;;;IIIlll!!!i
-;;;;:::,^````^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^,,,,,::::::;;;;;IIIlll!!!
-;;;::::,^```^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^,,,,,,::::::;;;IIIlll!!!
-;;;::::,^^``^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^,,,,,,::::::;;;;IIIlll!!
-;;;;:::,^```^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^,,,,,,:::::::;;;;IIllll!
-;;;;::,,^^`^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^,,,,,::::::;;;;;IIIllll
-I;;;;::,^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^,,,,,,:::::;;;;;IIIllll
-III;;;:,^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^,,,,,,:::::;;;;;;IIllll
-IIII;;;,^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^,,,,,,:::::;;;;;IIIllll
-III;;;;:^^^^^,^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^,,,,,,::::;;;;;IIIIllll
-III;;;:,^^^,,,,,,^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^,,,,,,::::;;;;;IIIlllll
-IIII;;:,,^,,,,,,,,^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^,,,,,:::;;;;;;IIIIlll!!
-IIIII;;:,,,,,,,,,,,,,^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^,,,,,,::;;;;;;;IIIllll!!
-llIII;;:,,,,,,,,,,^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^,,,,,::;;;;;;;;;IIlllll!
-llII;;:,,,,,,,,,,,,,,,^^^^^^```^^`^`^^^^^^^^^^^^^^^^^,,,,,:::::;;;;;;;IIIlllll!
-llII;;:,,,,,,,,,,,,,,,,,,,,,";<[)){?-?_l:^^",l~?]+i;,",,,:::::::::;;;;;IIIllll!!
-llII;;:::::::::,,,,,,,,,,,,I(UmqwQn|{\jt/({[[\fnXLQYx1i,,::::::::;;;;;IIIllll!!!
-!lllII;;;;:::::::::,,,^^;?zwOCUvtjcJJUrjrzXJLYcvJZqkkmc}I,::::;;;;;IIIIllll!!!i
-!!llII;;;;;;::::::,,^^!}uOdkwCzQqwmqkoowzUa*Mk0XuXQmbh*W*O|l:;;;;;IIIIllll!!!!ii
-!!llI;;;;;;;;;::::,^+rQbM*hd0cfuQdhM**MokaW*kZzjfvCZqdkhaakYi;;;IIIIllllll!!!!ii
-!!!lllIIII;;;;;;;::|UZbo*akpOYf|tYmk*W*hpkoaqUxnXQwdkaaahqUkjIIIIIIllllll!!!!!!!
-!!!lllllIIIII;;;;;{zw*MW$WM*hqJvC0mk**bQuOhahmXJwkao**MM*aqbfiIIIIIllllll!!!!!!i
-ii!!!lllllIIII;;;Ick$$&&&&$$$$&&MookpOXf{/Y0do**W$$&$$$$$$WhviIIIIIlllll!!!!!!ii
->iii!!!llllllIII;im&&&&8%#####8WobwQUv/1+?tzCqaW&8###%%8&$$Mw_;IIllllll!!!!!iiii
->>ii!!!!!lllllIIIlj*&8%##@@#&MokqOUuj\]!"I]jzLwbaM8@@@#%%&Ww?Illlllll!!!!ii>>i><
->>iiiii!!!!!lllllI+pW8####$akdwOUn\{?-I. .;?\xY0wda$@@@#%$W0lIIllll!!!!!iii>>>>>
-<>>iiiiiiii!!!!!!l!?r$%%8kmmOCXnf\({}-iIIl>?}|tnYLOmk&##%$w|Illl!!!!!ii>>i>>>>><
-<<<>>>>>>iiiii!!!!!li0%8dLQOZOOOZOQCJvjtjncXJQQQ000CUC*&8L!Il!!!!!!!iii<>i>>>><<
-+~~<<<<<<<>>>iiiiiii!+h%QQwwwmwph*okdmQQOqdbaadZ0LCQJvw&d+l!!!!!!!iiiiiii>>><><<
-++++~~~~~<<<<>>>>>iii\OpJ0qbkkbkoMMaqj~?xQd**okpqwZQJcXZUr~!!!iiiiii>>>>><<<<<~~
-__++++++~~~~<<<<<>>>iYaLXYUQwpdbdqZJ['  ;}uQmdbbpmQUcunvma1!>iii>>><<<<<<~~~~~~+
----___++++~~~~~<<<<<>/mCcj\(1)\fjxr+'   `,>(ftjrft/tfrvJ0z<>>>>><<<<<~~~~++__+__
-???----____++++~~~~~~_cJzj???[(rr<ii,^^li<tv/{]][1\fvCz?><<<<<<~~~~~++++_-----
-]]?????----__+++++~~~</zYj||/fuUcnuJCufttuYvuYCcf\(|fnvvt<~~~~~~+++++++___------
-]]]]]????----__++++++~\zUYUYJmdmCQkM*hpwqdpmCX0pZUcuccXn1~+++++++_______---?????
-[[[[]]]]??????-------_[/J000d8$*adkakdwqpddddwdoMhLYYYj)?+_______-----?????]]]][
-}}}}}[[[]]]]??????-----+zmZOZaaoWamCUzuvxuuUqakqqqQJJJ}_---------??????]]]]]][}{
-{{{}}}}}[[[]]]]]]??????-/dpwO0QYCQUnf\(\}|\fzUczJLQQwz-???????????]]]]]]][[}}{11
-11{{{{{{{{}}}[[[]]]]]]]??XWhdmQUzUUUzuuuuuuunxuzC0waZ{??????]]]]]]][[[[[}}{{1))(
-1111111{{{{{}}}[[[]]]]??-[q&WhwCUYCOmwmmmmLXcccUma$0[?]]]]]]]][[[[}}}}}}{{11)(|\
-))))11111{{{{{}}}}}[[}|xvYQb8%WbJrtxcUUJUXuxnX0h$*mcf([]][[[[[}}}}}}}{{{11))(|/f
-|((())))))1111{{{{{{fYqhbQ0Op*%%oLt(nYUzvvvX0kW*qLUmabOzr|{[}}{}{{{{{111)((|\tjx
-\\||((((((())11(\/jzJChobQOOmqk*88*bbh*ohkkaW*q0LCJQaa*ohbOXf1{{11111)))((||/fxv
-/\\\||(((((|tfjuzcc0ULh**ZOOZmqdkoW$&&$$W*okpZ0QLCCQoooahkoaaqU/11111)(((||\tjnz
-/////tfjrnuczzzzzcYOJCbMWaZZZmmqpdbkhahkbbpwmO0QLLCw*oooahakaMaqQCUvf|(((|\/frvm
-xuvcCLUYUUXXYUUXzXQZCCq*M$owmmmwqpdddbddpqwmZO0QQQOo***oaaaha*abhhkpqLuttf\/fruC
-CXYXYYXXYJUUUJUXUCm0CCma*M$WkpqwwqpppqqqwwwmZOOOOq*WM**ohaoaa*odkkkbbbdOLZujffjn
-b0YUXXXXXYUYUUYUCZqQCCQdo*M$$MakdpppdpppqwwZmwqphWWMMM*hkaooo*obkkbbbbbdhOU0Qzxj
-UwZCJXXXXXYYUYULmpZLCCLmkoMMW$$WoakkkkkkdqwqdbaMWWMMMMohaaaao*ohakkkkkkaq0wOUYYc
-czQQLJUYYYYYUUCmqOJJJLQOpo*MWW$$$W*ooooahkka*W$WWMM*MMoaaaaaoooaoahkkh*odqQYUUYY
-YUJJLLJJCCJUJCLZ0JUUJQ0ZZbo*WW$$$$&$$WWWWW$$$$WWWMMMMMooaaaooooooaaaaoMokwQLJJCQ
-QOOLLQLLLQ0QCC0OQCCCCL0Z0wa*WWW$$$$$$&&&&&&&$$$WWWMMMMo*aaaooooooooooMMohpmOQQZZ
-mOwqOO00QQQ00QZOQQQQQ0Zmmqh*MWW$$$$$$$$$$$$$$$$$WWWMWW**oaoooo*oooo*oMM*hpwwdqdO
-wbwpwZZZmOQQ0OwZ00OOmwwpdba*MW$$$&$$$$$$$$$$$$$$$$$$$WMW***o***o*****MMobdphhkqm
-ZphhhwmwdqmOOqbpwwwpdbpbkaa*M$$$$&&$$$$$$$$$$$$$$$$$$$$$WWWM*MM*MMWM*MMokbhoadqq
-ppbo*hdbkhddqkokbkdkaabkaoo*M$$$$&8&$$$$$$$$$$$$$&&&&&$&$$$$WWW$WW$WWWMoha*akddb
-bbka$$ooo**khoMo**ko**kao***M$$$$&&8&$$$$$$$&$$$&&&&&&&&&&&&$$$&$&&$$$Wo*M*ohhoh
-o**MW8&&&$$M*W$$&WoW$Who**MMW$$&&&&88&&$$$&&&&&&&&&&&&&&&&888&&%8888&&&&&WW*ooah
-$&8%8%%%%%88&&&&&MM&&$a***MMWW$&&&&888&&&&&&&&&&&&&&&&&&&8%88%%%%8%%%%%%&W**MWWM
-WW$8######%%8&&&&$$88WoMM*MWWW$&&&&8%%&&&&&&&&&&&&&&&88888%%%#%##%%%%##%$W$W*akk
-MW$&%#######%88&&$&%%Wo**M*kbM$&*o&$oW8&&&&&&&&&&88&88888%%%######%####8M*ohbbkh
-MMWW8#######%%88&&8%%$*kkoohokW8WM&MW$&$W&&WoM&&&aM8&$*$%%%###########%Waaoo***o
-*M$8#o&@#####%%888%%8&$&M*W$$$&&88&$8%%&$&&$*MM&$aM$&8&8%%###########%8%&$WM*ahh
-ao*$8b&@######%%88%%%8&&&$$$&&&888888%%%88&&&&&&8888%%%%%############8o$$$Woahkk
-*M&&hb$@######%%%%%%%888&&&&&&88%%%%%%%%%%8888888%%%%%%%%#############oh$8Woahkk
-$&8okkM@#######%%%%%%%%88&&&&&8%%%%%%%%%%%%%%%%%%%%%%%%###############WZJa$ohkkk
-&8Waaa*########%%%%%%%%%88&&&88%%%%%%%%#####%%%%%%%%%%%###############%hQq$*obw0
-&&oooo*%########%####%%%%888888%%%%%%%%##########%%%%############@####%8$ad$oOUc
-```
-
-<sub>Generated from a self portrait · rendered in ASCII</sub>
-
-</div>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
